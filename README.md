@@ -14,3 +14,6 @@ The default search engine is **Google**, but flags can be used to change this. S
 ![example screenshot search (150418)](https://i.imgur.com/3NjGT7L.jpg)
 
 The search engine does not persist on reload. `-x` can be used to switch the search engine back to **Google**.
+
+### Known Bugs
+* The order that the search flags display is a bit funky.
