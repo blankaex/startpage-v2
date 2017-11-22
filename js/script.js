@@ -60,6 +60,7 @@ var linkMenu = [
   ["YouTube",                  "http://www.youtube.com/feed/subscriptions",         ""],
   ["Twitter",                  "https://twitter.com/",                              ""],
   ["Shoryuken",                "http://forums.shoryuken.com/categories/tech-talk",  ""],
+  ["Slack",                    "https://k17hackers.slack.com/messages/C0A3A6T5Z/",  ""],
   ["Messenger",                "https://www.messenger.com/",                        ""],
   ["Whatsapp",                 "https://web.whatsapp.com/",                         ""],
   
@@ -92,8 +93,9 @@ var linkMenu = [
   [svgMore,                    "red",                                         "-HEAD-"], // Misc
   ["Aliexpress",               "https://www.aliexpress.com/",""],
   ["Focus Attack",             "http://focusattack.com/",""],
-  ["safe.moe",                 "https://safe.moe/",""],
   ["waa.ai",                   "https://waa.ai/",""],
+  ["safe.moe",                 "https://safe.moe/",""],
+  ["imgur",                    "https://blankaex.imgur.com/all/",""],
   ["OpenWeatherMap",           "https://openweathermap.org/city/2161608",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
