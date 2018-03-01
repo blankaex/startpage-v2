@@ -88,7 +88,7 @@ var linkMenu = [
   ["WebCMS",                   "https://webcms3.cse.unsw.edu.au/",          ""],
   ["OpenLearning",             "https://www.openlearning.com/u/blankaex",   ""],
   ["Moodle",                   "http://moodle.telt.unsw.edu.au/",           ""],
-  ["Email",                    "https://login.microsoftonline.com/",        ""],
+  ["Email",                    "https://outlook.office.com/",               ""],
 
   [svgMore,                    "red",                                         "-HEAD-"], // Misc
   ["Aliexpress",               "https://www.aliexpress.com/",""],
