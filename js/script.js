@@ -59,7 +59,7 @@ var linkMenu = [
   ["Facebook",                 "https://www.facebook.com",                          ""],
   ["YouTube",                  "http://www.youtube.com/feed/subscriptions",         ""],
   ["Twitter",                  "https://twitter.com/",                              ""],
-  ["Shoryuken",                "http://forums.shoryuken.com/categories/tech-talk",  ""],
+  ["Shoryuken",                "https://forums.shoryuken.com/c/tech-talk",          ""],
   ["Slack",                    "https://k17hackers.slack.com/messages/C0A3A6T5Z/",  ""],
   ["Messenger",                "https://www.messenger.com/",                        ""],
   ["Whatsapp",                 "https://web.whatsapp.com/",                         ""],
