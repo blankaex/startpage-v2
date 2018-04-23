@@ -69,6 +69,7 @@ var linkMenu = [
   ["Tekken-Net",               "http://web.tekken-net.jp/tk7fr/user/mypage",                    ""],
   ["/tekgen/ Doc",             "http://waa.ai/tekgendoc",                                       ""],
   ["Ina Tekken",               "http://seesaawiki.jp/w/inatekken/d/%b8%c7%cd%ad%b5%bbTFR",      ""],
+  ["Gamewith",                 "http://shadowverse.gamewith.jp/"                                ""],
   ["Damage Calculator",        "https://pokemonshowdown.com/damagecalc/",                       ""],
   ["Usage Stats",              "http://www.smogon.com/stats/",                                  ""],
   
