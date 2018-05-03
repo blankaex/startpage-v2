@@ -18,7 +18,7 @@ var cmdPrefix = "-"; //prefix for commands.
 var ssi = 0; //set default search provider. Use array index of the array below. (Starting with 0)
 // Format: [Keyword, Search URL (Search query replaces "{Q}"), "Input placeholder text"]
 var searchSources = [
-  ["x",        "https://www.google.com/#q={Q}",                                   "Google"],
+  ["x",        "https://www.google.com.au/#q={Q}",                                "Google"],
   ["y",        "https://www.youtube.com/results?search_query={Q}",               "YouTube"],
   ["n",        "http://www.nicovideo.jp/search/{Q}",                     "Nico Nico Douga"],
   ["t",        "https://nyaa.si/?f=0&c=0_0&q={Q}",                                  "Nyaa"],
