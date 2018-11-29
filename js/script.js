@@ -47,7 +47,7 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 */
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [  
-  [svgClover,                  "red",                    "-HEAD-"], // 4chan
+  [svgClover,                    "red",                  "-HEAD-"], // 4chan
   ["/a/ - Animu & Mango",        "http://boards.4chan.org/a/", ""],
   ["/fa/ - Fashion",             "http://boards.4chan.org/fa/",""],
   ["/g/ - Technology",           "http://boards.4chan.org/g/", ""],
@@ -58,13 +58,13 @@ var linkMenu = [
   [svgSocial,                  "red",                                         "-HEAD-"], // Social
   ["Facebook",                 "https://www.facebook.com",                          ""],
   ["YouTube",                  "http://www.youtube.com/feed/subscriptions",         ""],
-  ["Twitter",                  "https://twitter.com/",                              ""],
+  ["Twitter",                  "https://tweetdeck.twitter.com/",                    ""],
   ["Shoryuken",                "https://forums.shoryuken.com/c/tech-talk",          ""],
   ["Slack",                    "https://k17hackers.slack.com/messages/C0A3A6T5Z/",  ""],
   ["Messenger",                "https://www.messenger.com/",                        ""],
   ["Whatsapp",                 "https://web.whatsapp.com/",                         ""],
   
-  [svgGamepad,                 "red",                                                           "-HEAD-"], // Games
+  [svgGamepad,                 "red",                                                     "-HEAD-"], // Games
   ["Texthooker Canvas",        "file:///E:/Program%20Files/ITHVNR/Texthooker%20Canvas.html",    ""],
   ["Tekken-Net",               "http://web.tekken-net.jp/tk7fr/user/mypage",                    ""],
   ["/tekgen/ Doc",             "http://waa.ai/tekgendoc",                                       ""],
@@ -85,19 +85,19 @@ var linkMenu = [
   [svgCode,                    "red",                                 "-HEAD-"], // Work
   ["MyStudyLife",              "https://app.mystudylife.com/dashboard",     ""],
   ["Gitlab",                   "https://gitlab.cse.unsw.edu.au/",           ""],
-  ["Github",                   "https://github.com/blankaex",               ""],
+  ["Github",                   "https://github.com/ickymas",                ""],
   ["WebCMS",                   "https://webcms3.cse.unsw.edu.au/",          ""],
   ["OpenLearning",             "https://www.openlearning.com/u/blankaex",   ""],
   ["Moodle",                   "http://moodle.telt.unsw.edu.au/",           ""],
   ["Email",                    "https://outlook.office.com/",               ""],
 
-  [svgMore,                    "red",                                         "-HEAD-"], // Misc
-  ["Aliexpress",               "https://www.aliexpress.com/",""],
-  ["Focus Attack",             "http://focusattack.com/",""],
-  ["waa.ai",                   "https://waa.ai/",""],
-  ["safe.moe",                 "https://safe.moe/",""],
-  ["imgur",                    "https://blankaex.imgur.com/all/",""],
-  ["OpenWeatherMap",           "https://openweathermap.org/city/2161608",""],
+  [svgMore,                    "red",                               "-HEAD-"], // Misc
+  ["Aliexpress",               "https://www.aliexpress.com/",             ""],
+  ["Focus Attack",             "http://focusattack.com/",                 ""],
+  ["waa.ai",                   "https://waa.ai/",                         ""],
+  ["safe.moe",                 "https://safe.moe/",                       ""],
+  ["imgur",                    "https://blankaex.imgur.com/all/",         ""],
+  ["OpenWeatherMap",           "https://openweathermap.org/city/2161608", ""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
