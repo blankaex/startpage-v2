@@ -85,7 +85,7 @@ var linkMenu = [
   [svgCode,                    "red",                                 "-HEAD-"], // Work
   ["MyStudyLife",              "https://app.mystudylife.com/dashboard",     ""],
   ["Gitlab",                   "https://gitlab.cse.unsw.edu.au/",           ""],
-  ["Github",                   "https://github.com/ickymas",                ""],
+  ["Github",                   "https://github.com/blankaex",               ""],
   ["WebCMS",                   "https://webcms3.cse.unsw.edu.au/",          ""],
   ["OpenLearning",             "https://www.openlearning.com/u/blankaex",   ""],
   ["Moodle",                   "http://moodle.telt.unsw.edu.au/",           ""],
@@ -99,7 +99,6 @@ var linkMenu = [
   ["imgur",                    "https://blankaex.imgur.com/all/",         ""],
   ["OpenWeatherMap",           "https://openweathermap.org/city/2161608", ""],
 ];
-// DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
 /*==================*/
 /*== Main Script ==*/
