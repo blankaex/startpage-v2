@@ -59,16 +59,15 @@ var linkMenu = [
   ["Facebook",                 "https://www.facebook.com",                          ""],
   ["YouTube",                  "http://www.youtube.com/feed/subscriptions",         ""],
   ["Twitter",                  "https://tweetdeck.twitter.com/",                    ""],
-  ["Shoryuken",                "https://forums.shoryuken.com/c/tech-talk",          ""],
   ["Slack",                    "https://k17hackers.slack.com/messages/C0A3A6T5Z/",  ""],
   ["Messenger",                "https://www.messenger.com/",                        ""],
   ["Whatsapp",                 "https://web.whatsapp.com/",                         ""],
   
   [svgGamepad,                 "red",                                                     "-HEAD-"], // Games
   ["Texthooker Canvas",        "file:///E:/Program%20Files/ITHVNR/Texthooker%20Canvas.html",    ""],
-  ["Tekken-Net",               "http://web.tekken-net.jp/tk7fr/user/mypage",                    ""],
+  ["Tekken-Net",               "https://web.tekken-net.jp/tk7fr-r2/",                           ""],
   ["/tekgen/ Doc",             "http://waa.ai/tekgendoc",                                       ""],
-  ["Ina Tekken",               "http://seesaawiki.jp/w/inatekken/d/%b8%c7%cd%ad%b5%bbTFR",      ""],
+  ["Incomplete Conquest",      "http://geppopotamus.info/game/tekken7fr/",                      ""],
   ["Gamewith",                 "http://shadowverse.gamewith.jp/",                               ""],
   ["Damage Calculator",        "https://pokemonshowdown.com/damagecalc/",                       ""],
   ["Usage Stats",              "http://www.smogon.com/stats/",                                  ""],
